@@ -2,7 +2,7 @@
 
 # Creality K1 Series Partition Tool
 
-A PyQt6-based utility for Creality K1, K1C, and K1 Max users to generate critical system images (`ota.img` and `sn_mac.img`) required for unbricking or partition recovery.
+A based utility for Creality K1, K1C, and K1 Max users to generate critical system images (`ota.img` and `sn_mac.img`) required for unbricking or partition recovery.
 
 ## 📌 Overview
 When repairing the flash memory of a Creality K1 series printer, specific small partitions hold the printer's identity and boot instructions. This tool automates the creation of these files using the exact hex-offset requirements and string formats required by the bootloader.
@@ -46,7 +46,7 @@ git clone https://github.com/DRCRecoveryData/K1-Unbrick-Tool.git
 
 2. **Install Dependencies**:
 ```bash
-pip install PyQt6
+pip install 
 
 ```
 
