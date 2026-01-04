@@ -1,4 +1,4 @@
-<img width="502" height="551" alt="{1B152BA2-6EE2-4471-8C4E-111763ADA025}" src="https://github.com/user-attachments/assets/7fad5b82-c5cf-4786-89c2-e1951bd4a7ef" />
+<img width="606" height="742" alt="{2E35D042-166B-44B7-8AF8-05F8CE9CE810}" src="https://github.com/user-attachments/assets/3f24039c-a115-4902-836b-0c74f0ca42b1" />
 
 # Creality K1 Series Partition Tool
 
